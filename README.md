@@ -1,4 +1,4 @@
-## Hey! Eu sou o Pedro Matos 
+## Hey! I'm Pedro Matos 
  <div>
   <a href="https://github.com/pedrocvm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrocvm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
